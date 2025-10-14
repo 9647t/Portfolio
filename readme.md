@@ -7,6 +7,6 @@
 ](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
 ![RunningCalculator]()
-*[Windows]()
-*[Mac0S]()
+*[Windows](PasteAdressHere)
+*[Mac0S](PasteAdressHere)
 *[SourceCode]()
