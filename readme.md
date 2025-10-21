@@ -1,4 +1,4 @@
-# Alan Huang's Programning Portfolio
+# Alan Huang's Programming Portfolio
 
 ## Term 1 Projects
 
