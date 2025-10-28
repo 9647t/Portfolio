@@ -3,11 +3,11 @@
 ## Term 1 Projects
 
 ### Calaculator (2025) 
-Detailed Description
+Code is broken:
 
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
-*[Windows](PasteAdressHere)
+*[Windows]()
 *[Mac0S](https://github.com/user-attachments/files/23191039/macos-x86_64.zip)
 *[SourceCode]()
 
