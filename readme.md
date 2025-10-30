@@ -7,7 +7,7 @@ Detailed Description
 
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
-*[Windows]()
+*[Windows]
 *[Mac0S](https://github.com/user-attachments/files/23191039/macos-x86_64.zip)
-*[SourceCode]()
+*[SourceCode]
 
