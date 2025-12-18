@@ -7,7 +7,6 @@
 
 ### Calaculator (2025) 
 
-- Self project
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
 *[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
