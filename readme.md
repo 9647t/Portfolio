@@ -6,6 +6,7 @@
 ## Term 1 Projects
 
 ### Calaculator (2025) 
+
 - Self project
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
