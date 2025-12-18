@@ -13,5 +13,5 @@
 *[Mac0S](https://github.com/user-attachments/files/23191039/macos-x86_64.zip)
 
 ## Certifications:
-
+*[Mac0s](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Alan%20Huang_Computer%20Programming%201_12182025.pdf)
 
