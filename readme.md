@@ -20,4 +20,4 @@ Description: Self project I worked on in class of first quarter.
 
 ### TankField (2025)
 Description: Self project with online/digtal help
-![Tanks](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
+![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
