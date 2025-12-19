@@ -12,4 +12,5 @@
 *[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
 
 ## Certifications:
-[FirstCertificate](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/certificate.png?raw=true)
+[FirstCertificate](https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png)
+
