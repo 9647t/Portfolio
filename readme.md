@@ -19,5 +19,8 @@ Description: Self project I worked on in class of first quarter.
 
 
 ### TankField (2025)
-Description: Self project with online/digtal help
+Description: Self project with digtal help
 ![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
+### WS Game (2026)
+Description: In progress game
+Link: https://9647t.github.io/Project_s/
