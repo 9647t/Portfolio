@@ -1,12 +1,12 @@
 # Alan Huang's Programning Portfolio
-- @9660447@graniteschools.org
+**Email** - @9660447@graniteschools.org
 
 
 
-## Term 1 Projects
+
 
 ### Calaculator (2025) 
-Description: Self project I worked on in class of first quarter.
+Description: First programming project I worked on. This was the first introduction to java syntact, introducing 
 
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
@@ -15,9 +15,6 @@ Description: Self project I worked on in class of first quarter.
 ### TankField (2025)
 Description: Self project with digtal help
 ![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
-
-## Term 2 Projects
-
 
 
 ### Clik (2026)
