@@ -14,8 +14,7 @@ First programming project I worked on. This was the first introduction to java s
 
 ### TankField (2025)
 Description: Self project with digtal help
-![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
-*[Download](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
+![Image](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
 
 ### Clik (2026)
