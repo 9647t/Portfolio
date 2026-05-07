@@ -1,5 +1,5 @@
 # Alan Huang's Programning Portfolio
-**Email** - @9******@graniteschools.org
+**Email** - @[Add Email]@graniteschools.org
 
 
 
