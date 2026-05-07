@@ -19,8 +19,9 @@ Description: First interactive game I worked on. Used ArrayLists for storing pro
 
 ### Clik (2026)
 Description: In progress game
-Link: https://9647t.github.io/Project_s/
+*[Download not implemented]
 ## Puzzle Game (2026)
+*[Download not implemented]
 
 
 
