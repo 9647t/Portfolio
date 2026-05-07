@@ -12,15 +12,26 @@ Description: Self project I worked on in class of first quarter.
 
 *[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
 
-## Certifications:
-![FirstCertificate](https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png)
+### TankField (2025)
+Description: Self project with digtal help
+![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
 
 ## Term 2 Projects
 
 
-### TankField (2025)
-Description: Self project with digtal help
-![tank](https://raw.githubusercontent.com/9647t/Portfolio/main/images/tank.png)
-### WS Game (2026)
+
+### Clik (2026)
 Description: In progress game
 Link: https://9647t.github.io/Project_s/
+## Puzzle Game (2026)
+
+
+
+
+
+
+
+
+## Certifications:
+![FirstCertificate](https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png)
+
