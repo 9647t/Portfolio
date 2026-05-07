@@ -1,5 +1,5 @@
 # Alan Huang's Programning Portfolio
-**Email** - @9660447@graniteschools.org
+**Email** - @9******@graniteschools.org
 
 
 
@@ -13,7 +13,7 @@ First programming project I worked on. This was the first introduction to java s
 *[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
 
 ### TankField (2025)
-Description: Self project with digtal help
+Description: Self project with digtal help. Use 
 ![Image](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
 
