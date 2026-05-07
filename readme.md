@@ -6,7 +6,7 @@
 
 
 ### Calaculator (2025) 
-Description: First programming project I worked on. This was the first introduction to java syntact, introducing arthmethic operations such as adding, subtracting, mutipling, and diving.
+First programming project I worked on. This was the first introduction to java syntact, introducing arthmethic operations such as adding, subtracting, mutipling, and diving.
 
 ![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
