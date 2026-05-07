@@ -13,7 +13,7 @@ First programming project I worked on. This was the first introduction to java s
 *[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
 
 ### TankField (2025)
-Description: First interactive game I worked on. Used ArrayLists for storing projectiles and millis for tracking cooldown and time. 
+Description: First interactive game I worked on. Used ArrayLists for storing projectiles and millis() for tracking cooldown and time. 
 ![Image](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
 
