@@ -75,7 +75,7 @@ The game ends when an enemy reaches the center point, reinforcing collision dete
 - Game Ending Conditions
 
 ## Screenshot
-![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
+![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/clik.png?raw=true)
 
 ---
 
