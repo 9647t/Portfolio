@@ -1,36 +1,115 @@
-# Alan Huang's Programning Portfolio
-**Email** - @[Unknown]@graniteschools.org
+<h1 align="center">Alan Huang's Programming Portfolio</h1>
+
+<p align="center">
+  Java • Object-Oriented Programming • Game Development • Problem Solving
+</p>
 
 
 
+---
 
+## Overview
+This portfolio showcases my growth as a programmer through Java projects focused on object-oriented programming, game development, and interactive systems. Each project demonstrates increasing complexity in logic, structure, and design.
 
-### Calaculator (2025) 
-First programming project I worked on. This was the first introduction to java syntact, introducing arthmethic operations such as adding, subtracting, mutipling, and diving.
+---
 
-![RunningCalculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
+# Calculator (2025)
 
-*[Mac0s Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
+## Description
+The Calculator project was my first introduction to Java programming. It focuses on basic syntax and arithmetic operations such as addition, subtraction, multiplication, and division.
 
-### TankField (2025)
-Description: First interactive game I worked on. Used ArrayLists for storing projectiles and millis() for tracking cooldown and time. There were seperate classes that corrospond to each indivudal part of the game. The gamescreen only calls begin game when it recieves MouseClicked(). I just made everything only run if the certain varible becomes StartGame, Or EndGame.
-![Image](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
+The program uses methods to organize calculations and handle user input. This helped me understand how programs process data step-by-step and introduced me to structured problem solving.
 
+## Concepts Used
+- Variables
+- Methods
+- Arithmetic Operations
+- User Input
+- Basic Program Flow
 
-### Clik (2026)
-Description: Its a simpler game I worked on for creating chasing enemies with applying the direction of Cos and Sin together to move to a specifc direction to Player. Enemies are in a ArrayList, and each indivual will store size, color, and speed. Once it reaches a the middle position it calls to end game.
-*[Download not implemented]
-## Puzzle Game (2026)
-Description. Its a more collision based game I worked on, at first I would use a single dot position to detect collison but it needs to detect the entire player, so instead of px > x && px < x+w, i did px + pw > x && px < x+w. You need to push a box to a pressure plate to unlock it using boolean true, then going to next level.
-*[Download not implemented]
+## Screenshot
+![Calculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
+## Repository / Download
+[MacOS Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
 
+---
 
+# 🎮 TankField (2025)
 
+## Description
+TankField is my first interactive game project. It uses multiple classes to separate game components such as the player tank, projectiles, and game system logic.
 
+ArrayLists are used to store projectiles dynamically, allowing the game to handle multiple objects at once. The game also uses `millis()` for cooldown timing and event-based input through mouse clicks.
 
+Game states like `StartGame` and `EndGame` control program flow, ensuring only relevant logic runs at the correct time.
 
+## Concepts Used
+- Object-Oriented Programming (Classes & Objects)
+- ArrayLists
+- Game States
+- Event Handling (Mouse Input)
+- Timers (`millis()`)
+- Game Loop Logic
 
-## Certifications:
-![FirstCertificate](https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png)
+## Screenshot
+![TankField](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
+---
+
+# Clik (2026)
+
+## Description
+Clik is a survival-style game where enemies track the player using trigonometric movement.
+
+Enemy movement is calculated using `cos()` and `sin()` to create directional motion toward the player. Each enemy is stored in an ArrayList and contains its own properties such as size, color, and speed, demonstrating object-oriented design.
+
+The game ends when an enemy reaches the center point, reinforcing collision detection and coordinate-based logic.
+
+## Concepts Used
+- ArrayLists
+- Classes & Objects
+- Enemy AI Behavior
+- Trigonometry (Cos & Sin)
+- Coordinate Movement
+- Game Ending Conditions
+
+## Screenshot
+![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
+
+---
+
+# Puzzle Game (2026)
+
+## Description
+Puzzle Game is a collision-based logic game where the player pushes boxes onto pressure plates to unlock doors and progress through levels.
+
+Originally, collision detection only checked a single point, which caused inaccurate interactions. I improved this by using full hitbox detection (`px + pw > x && px < x + w`), making collisions much more accurate.
+
+Boolean variables are used to track puzzle states such as activated plates and unlocked doors, allowing for multi-step level progression.
+
+## Concepts Used
+- Collision Detection (Hitboxes)
+- Boolean Logic
+- Level Progression
+- Object Interaction
+- Game State Management
+
+## Screenshot
+![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/certificate.png)
+
+---
+
+# Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png" width="500">
+</p>
+
+---
+
+# Reflection
+
+Through these projects, I progressed from learning basic Java syntax to building fully interactive games using object-oriented programming principles. I learned how to structure programs using classes, manage game states, handle user input, and design interactive systems with increasing complexity.
+
+Each project improved my understanding of programming logic, debugging, and problem solving.
