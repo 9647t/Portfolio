@@ -35,7 +35,7 @@ The program uses methods to organize calculations and handle user input. This he
 
 ---
 
-# 🎮 TankField (2025)
+# TankField (2025)
 
 ## Description
 TankField is my first interactive game project. It uses multiple classes to separate game components such as the player tank, projectiles, and game system logic.
@@ -96,7 +96,7 @@ Boolean variables are used to track puzzle states such as activated plates and u
 - Game State Management
 
 ## Screenshot
-![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/certificate.png)
+![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/puzzle.png?raw=true)
 
 ---
 
