@@ -75,7 +75,7 @@ The game ends when an enemy reaches the center point, reinforcing collision dete
 - Game Ending Conditions
 
 ## Download
-[Click here to download](https://github.com/9647t/Portfolio/raw/main/src/Clik.zip)
+[Clik Download](https://github.com/9647t/Portfolio/raw/main/src/Clik.zip)
 
 ## Screenshot
 ![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/clik.png?raw=true)
