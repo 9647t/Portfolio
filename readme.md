@@ -98,6 +98,9 @@ Boolean variables are used to track puzzle states such as activated plates and u
 - Object Interaction
 - Game State Management
 
+## Download
+[PW-Puzzle Download](https://github.com/9647t/Portfolio/raw/main/src/PW_Puzzle.zip)
+
 ## Screenshot
 ![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/puzzle.png?raw=true)
 
