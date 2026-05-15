@@ -15,6 +15,9 @@ This portfolio showcases my growth as a programmer through Java projects focused
 
 # Calculator (2025)
 
+## Screenshot
+![Calculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
+
 ## Description
 The Calculator project was my first introduction to Java programming. It focuses on basic syntax and arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -27,8 +30,6 @@ The program uses methods to organize calculations and handle user input. This he
 - User Input
 - Basic Program Flow
 
-## Screenshot
-![Calculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
 
 ## Repository / Download
 [MacOS Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
@@ -36,6 +37,9 @@ The program uses methods to organize calculations and handle user input. This he
 ---
 
 # TankField (2025)
+
+## Screenshot
+![TankField](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
 ## Description
 TankField is my first interactive game project. It uses multiple classes to separate game components such as the player tank, projectiles, and game system logic.
@@ -52,12 +56,13 @@ Game states like `StartGame` and `EndGame` control program flow, ensuring only r
 - Timers (`millis()`)
 - Game Loop Logic
 
-## Screenshot
-![TankField](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
 ---
 
 # Clik (2026)
+
+## Screenshot
+![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/clik.png?raw=true)
 
 ## Description
 Clik is a survival-style game where enemies track the player using trigonometric movement.
@@ -77,12 +82,12 @@ The game ends when an enemy reaches the center point, reinforcing collision dete
 ## Download
 [Clik Download](https://github.com/9647t/Portfolio/raw/main/src/Clik.zip)
 
-## Screenshot
-![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/clik.png?raw=true)
-
 ---
 
 # Puzzle Game (2026)
+
+## Screenshot
+![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/puzzle.png?raw=true)
 
 ## Description
 Puzzle Game is a collision-based logic game where the player pushes boxes onto pressure plates to unlock doors and progress through levels.
@@ -100,9 +105,6 @@ Boolean variables are used to track puzzle states such as activated plates and u
 
 ## Download
 [PW-Puzzle Download](https://github.com/9647t/Portfolio/raw/main/src/PW_Puzzle.zip)
-
-## Screenshot
-![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/puzzle.png?raw=true)
 
 ---
 
