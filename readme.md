@@ -113,6 +113,8 @@ Boolean variables are used to track puzzle states such as activated plates and u
 # Certifications 
 <p align="center"> <img src="https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png" width="500"> </p>
 
+<p align="center"> <img src="https://github.com/9647t/Portfolio/blob/main/ReadMe.md/cerfitcate.png" width="500"> </p>
+                     
 ---
 
 # Reflection
