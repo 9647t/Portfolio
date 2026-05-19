@@ -1,124 +1,149 @@
-<h1 align="center">Alan Huang's Programming Portfolio</h1>
+# Alan Huang's Programming Portfolio
 
-<p align="center">
-  Java • Object-Oriented Programming • Game Development • Problem Solving
-</p>
+Programming: Java | Object-Oriented Programming | Game Development | Problem Solving
 
+---
 
+## Quick Navigation
+
+- [Games](#games)
+- [Logic and Algorithm Projects](#logic-and-algorithm-projects)
+- [Certifications](#certifications)
+- [Reflection](#reflection)
 
 ---
 
 ## Overview
-This portfolio showcases my growth as a programmer through Java projects focused on object-oriented programming, game development, and interactive systems. Each project demonstrates increasing complexity in logic, structure, and design.
+
+This portfolio showcases my development as a programmer through Java-based projects focused on object-oriented programming, game development, and interactive systems. Each project demonstrates increased complexity in logic, structure, and design.
 
 ---
 
-# Calculator (2025)
+# Games
 
-## Screenshot
-![Calculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
+## TankField (2025)
 
-## Description
-The Calculator project was my first introduction to Java programming. It focuses on basic syntax and arithmetic operations such as addition, subtraction, multiplication, and division.
-
-The program uses methods to organize calculations and handle user input. This helped me understand how programs process data step-by-step and introduced me to structured problem solving.
-
-## Concepts Used
-- Variables
-- Methods
-- Arithmetic Operations
-- User Input
-- Basic Program Flow
-
-
-## Repository / Download
-[MacOS Fixed Version](https://github.com/user-attachments/files/23239988/macos-x86_64.zip)
-
----
-
-# TankField (2025)
-
-## Screenshot
 ![TankField](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/tank.png?raw=true)
 
-## Description
-TankField is my first interactive game project. It uses multiple classes to separate game components such as the player tank, projectiles, and game system logic.
+**Description:**  
+TankField is an interactive game project built using object-oriented programming. It separates game components into multiple classes such as tanks, projectiles, and game logic systems.
 
-ArrayLists are used to store projectiles dynamically, allowing the game to handle multiple objects at once. The game also uses `millis()` for cooldown timing and event-based input through mouse clicks.
+ArrayLists are used to manage projectiles dynamically, and timing functions are used to control cooldowns. Game states control the flow of the program.
 
-Game states like `StartGame` and `EndGame` control program flow, ensuring only relevant logic runs at the correct time.
-
-## Concepts Used
-- Object-Oriented Programming (Classes & Objects)
+**Concepts Used:**
+- Object-Oriented Programming (Classes and Objects)
 - ArrayLists
 - Game States
 - Event Handling (Mouse Input)
-- Timers (`millis()`)
-- Game Loop Logic
-
-## Download
-[Tankfield Download](https://github.com/9647t/Portfolio/blob/main/src/TankField%20(1).zip)
+- Timers
 
 ---
 
-# Clik (2026)
+## Clik (2026)
 
-## Screenshot
 ![Clik](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/clik.png?raw=true)
 
-## Description
-Clik is a survival-style game where enemies track the player using trigonometric movement.
+**Description:**  
+Clik is a survival-style game where enemies track the player using trigonometric movement. Each enemy operates independently using object-oriented programming principles.
 
-Enemy movement is calculated using `cos()` and `sin()` to create directional motion toward the player. Each enemy is stored in an ArrayList and contains its own properties such as size, color, and speed, demonstrating object-oriented design.
+Enemy movement is calculated using sine and cosine functions to create directional motion toward the player.
 
-The game ends when an enemy reaches the center point, reinforcing collision detection and coordinate-based logic.
-
-## Concepts Used
+**Concepts Used:**
+- Object-Oriented Programming
 - ArrayLists
-- Classes & Objects
 - Enemy AI Behavior
-- Trigonometry (Cos & Sin)
-- Coordinate Movement
-- Game Ending Conditions
-
-## Download
-[Clik Download](https://github.com/9647t/Portfolio/raw/main/src/Clik.zip)
+- Trigonometric Movement (sin and cos)
+- Collision Logic
 
 ---
 
-# Puzzle Game (2026)
+## Number Guessing Game (2026)
 
-## Screenshot
+![Number Guessing Game](ADD-SCREENSHOT-LINK)
+
+**Description:**  
+The Number Guessing Game selects a random number between 1 and 100. The player must guess the number, and the program provides feedback indicating whether the guess is higher or lower than the target.
+
+The game continues until the correct number is found.
+
+**Concepts Used:**
+- Random number generation
+- Conditional statements
+- Loops
+- User input
+- Debugging logic
+
+---
+
+# Logic and Algorithm Projects
+
+## Calculator (2025)
+
+![Calculator](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/Calc.png?raw=true)
+
+**Description:**  
+The Calculator project was my introduction to Java programming. It performs basic arithmetic operations and helped me understand program structure and method usage.
+
+**Concepts Used:**
+- Variables
+- Methods
+- Arithmetic operations
+- User input
+
+---
+
+## Puzzle Game (2026)
+
 ![Puzzle Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/puzzle.png?raw=true)
 
-## Description
-Puzzle Game is a collision-based logic game where the player pushes boxes onto pressure plates to unlock doors and progress through levels.
+**Description:**  
+Puzzle Game is a logic-based game where the player pushes objects onto pressure plates to unlock doors and progress through levels.
 
-Originally, collision detection only checked a single point, which caused inaccurate interactions. I improved this by using full hitbox detection (`px + pw > x && px < x + w`), making collisions much more accurate.
+Collision detection was improved by using full hitbox calculations instead of single-point detection.
 
-Boolean variables are used to track puzzle states such as activated plates and unlocked doors, allowing for multi-step level progression.
-
-## Concepts Used
+**Concepts Used:**
 - Collision Detection (Hitboxes)
 - Boolean Logic
 - Level Progression
-- Object Interaction
 - Game State Management
 
-## Download
-[PW-Puzzle Download](https://github.com/9647t/Portfolio/raw/main/src/PW_Puzzle.zip)
+---
+
+## Random Word Generator App (2026)
+
+![Random Word App](ADD-SCREENSHOT-LINK)
+
+**Description:**  
+This application generates a random word by combining three different word sections. Each section contributes part of the final word, and their definitions are combined to create a new meaning.
+
+This project demonstrates string manipulation and structured logic design.
+
+**Concepts Used:**
+- String manipulation
+- Arrays or ArrayLists
+- Random selection
+- Modular programming
 
 ---
 
-# Certifications 
-<p align="center"> <img src="https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png" width="500"> </p>
+## Certifications
 
-<p align="center"> <img src="https://github.com/9647t/Portfolio/blob/main/ReadMe.md/cerfitcate.png" width="500"> </p>
-                     
+![Certificate](https://raw.githubusercontent.com/9647t/Portfolio/main/ReadMe.md/certificate.png)
+![Certificate 2](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/cerfitcate.png?raw=true)
+
 ---
 
-# Reflection
+## Reflection
 
-Through these projects, I progressed from learning basic Java syntax to building fully interactive games using object-oriented programming principles. I learned how to structure programs using classes, manage game states, handle user input, and design interactive systems with increasing complexity.
+Through these projects, I developed from learning basic Java syntax to building interactive games and applications using object-oriented programming.
 
-Each project improved my understanding of programming logic, debugging, and problem solving.
+I improved my understanding of:
+- Program structure
+- Game development logic
+- Collision detection systems
+- Randomization
+- Debugging and problem solving
+
+One major improvement I made was upgrading collision detection in my puzzle game from point-based logic to full hitbox detection, which significantly improved gameplay accuracy.
+
+Overall, I became more confident in designing complete programs and solving problems independently.
