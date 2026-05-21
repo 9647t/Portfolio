@@ -59,7 +59,7 @@ Enemy movement is calculated using sine and cosine functions to create direction
 
 ## Number Guessing Game (2026)
 
-![Number Guessing Game](ADD-SCREENSHOT-LINK)
+![Number Guessing Game](https://github.com/9647t/Portfolio/blob/main/ReadMe.md/numberguessinggame.png?raw=true)
 
 **Description:**  
 The Number Guessing Game selects a random number between 1 and 100. The player must guess the number, and the program provides feedback indicating whether the guess is higher or lower than the target.
