@@ -17,6 +17,51 @@ Programming: Java | Object-Oriented Programming | Game Development | Problem Sol
 
 This portfolio showcases my development as a programmer through Java-based projects focused on object-oriented programming, game development, and interactive systems. Each project demonstrates increased complexity in logic, structure, and design.
 
+## About Me
+
+I'm a programmer focused on Java development, object-oriented programming, and game design. I enjoy building interactive projects that challenge my problem-solving skills and help me improve as a developer.
+
+My projects range from beginner applications like calculators and number games to more advanced systems involving collision detection, enemy AI, and game state management. Through these projects, I’ve developed strong logical thinking skills and gained experience designing complete programs independently.
+
+I’m especially interested in:
+- Game development
+- Interactive systems
+- Problem solving and debugging
+- Object-oriented programming
+- Learning new programming concepts
+
+My goal is to continue improving my programming skills while creating larger and more polished projects.
+
+---
+
+## Skills
+
+### Programming Languages
+- Java
+
+### Programming Concepts
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Debugging
+- Game Logic Design
+- Collision Detection
+- Event Handling
+- Trigonometry for Movement Systems
+- Randomization Systems
+
+### Tools and Technologies
+- Java IDEs (Eclipse / IntelliJ)
+- GitHub
+- Java Swing / Graphics Programming
+
+### Development Skills
+- Building interactive applications
+- Structuring programs with classes and objects
+- Designing game systems
+- Managing game states
+- Implementing algorithms and logic systems
+
+
 ---
 
 # Games
